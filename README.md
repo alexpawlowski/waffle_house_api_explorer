@@ -4,7 +4,7 @@ This repo is a WIP of providing maps and contextual information to see current W
 
 Waffle House provides an API that can be searched to find closures. Luckily the API spits out a nicely formatted `geojson` format that can be readily imported into `geopandas` to look at. 
 
-Follow along the [notebook](wfh_index_mapperipynb)
+Follow along the [notebook](wfh_index_mapper.ipynb)
 
 ## TO-DO
 
